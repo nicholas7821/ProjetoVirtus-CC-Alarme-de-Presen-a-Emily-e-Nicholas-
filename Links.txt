@@ -1,0 +1,5 @@
+	Links
+SSD1306 Datasheet: https://drive.google.com/file/d/1etmpedQhI8s6tCCKvGshk4XW-Q5vwU2f/view?usp=drive_link
+BMP280 Datasheet: https://drive.google.com/file/d/1yag9_owBGA03BvjCmDqIJN_SxMfiVnhT/view?usp=drive_link
+HCRS-04 Datasheet: https://drive.google.com/file/d/1EjBc8tlKCj9YpFAiBEt6JbCW1uPnFA7b/view?usp=drive_link
+Vídeo do Projeto: https://drive.google.com/file/d/1ZuVUSKTbcLIm1sscaa4Fl78n_u81bXEa/view?usp=drive_link 
